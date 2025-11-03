@@ -206,12 +206,13 @@ Diese Projekte arbeiten daran, den dringend benötigten Wettbewerb auf dem Markt
 - [https://consumerrights.wiki/w/Android_Developer_Verification](https://consumerrights.wiki/w/Android_Developer_Verification)
 
 ### Leitartikel und Blogs
-
+- “Application Gatekeeping: An Ever-Expanding Pathway to Internet Censorship” — [https://www.eff.org/deeplinks/2025/11/application-gatekeeping-ever-expanding-pathway-internet-censorship](https://www.eff.org/deeplinks/2025/11/application-gatekeeping-ever-expanding-pathway-internet-censorship)
 - „What We Talk About When We Talk About Sideloading“ — [https://f-droid.org/en/2025/10/28/sideloading.html](https://f-droid.org/en/2025/10/28/sideloading.html) ([Hacker News Thread](https://news.ycombinator.com/item?id=45736479))
 - „F-Droid and Google’s Developer Registration Decree“ — [https://f-droid.org/en/2025/09/29/google-developer-registration-decree.html](https://f-droid.org/en/2025/09/29/google-developer-registration-decree.html) ([Hacker News Thread](https://news.ycombinator.com/item?id=45409794))
 - „Pluralistic: Darth Android“ — [https://pluralistic.net/2025/09/01/fulu/](https://pluralistic.net/2025/09/01/fulu/)
-- „Google plans to block side-loading like Apple, declaring war on Android freedom“ — [https://tuta.com/blog/android-side-load-apps-google](https://tuta.com/blog/android-side-load-apps-google)
 - „Keep Android Free and Open“ — [https://www.swechaap.org/blog/keep-android-free-and-open/](https://www.swechaap.org/blog/keep-android-free-and-open/)
+- „Google plant, das Sideloading wie Apple zu blockieren – ein Krieg gegen die Freiheit von Android“ — [https://tuta.com/blog/android-side-load-apps-google](https://tuta.com/blog/android-side-load-apps-google)
+- „Schließen Sie sich dem Protest gegen die Schließung von Android an“ — [https://www.i-programmer.info/news/193-android/18419-join-the-protest-against-the-closing-of-android.html](https://www.i-programmer.info/news/193-android/18419-join-the-protest-against-the-closing-of-android.html)
 
 ### Presseberichte
 
@@ -246,14 +247,6 @@ Diese Projekte arbeiten daran, den dringend benötigten Wettbewerb auf dem Markt
 - „Googles Änderungen beim Sideloading könnten F-Droid beenden – Linux Weekly News“ — [https://youtu.be/iMqpm2Ahmt0](https://youtu.be/iMqpm2Ahmt0)
 - „Steht F-Droid in Gefahr? Googles Entwicklerverifizierung erklärt“ — [https://youtu.be/-SOOoQWv4kk](https://youtu.be/-SOOoQWv4kk)
 - „Google macht Android zu Apple: Das Ende der Offenheit“ — ChiefGyk3D — [https://youtu.be/WFOPzixHoLY](https://youtu.be/WFOPzixHoLY)
-
-### Leitartikel und Blogs (Fortsetzung)
-
-- „F-Droid and Google’s Developer Registration Decree“ — [https://f-droid.org/2025/09/29/google-developer-registration-decree.html](https://f-droid.org/2025/09/29/google-developer-registration-decree.html)
-- „What We Talk About When We Talk About Sideloading“ — [https://f-droid.org/2025/10/28/sideloading.html](https://f-droid.org/2025/10/28/sideloading.html)
-- „Pluralistic: Darth Android“ — [https://pluralistic.net/2025/09/01/fulu/](https://pluralistic.net/2025/09/01/fulu/)
-- „Google plant, das Sideloading wie Apple zu blockieren – ein Krieg gegen die Freiheit von Android“ — [https://tuta.com/blog/android-side-load-apps-google](https://tuta.com/blog/android-side-load-apps-google)
-- „Schließen Sie sich dem Protest gegen die Schließung von Android an“ — [https://www.i-programmer.info/news/193-android/18419-join-the-protest-against-the-closing-of-android.html](https://www.i-programmer.info/news/193-android/18419-join-the-protest-against-the-closing-of-android.html)
 
 ### Diskussionen
 
