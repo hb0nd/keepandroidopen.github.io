@@ -10,12 +10,12 @@ contact_header: "Contatto"
 contact_email: "E-mail"
 site_problems_header: "Problemi"
 site_report_issues: "Segnala problemi del sito web"
-site_disclaimer: "**Dichiarazione di non responsabilità:** Questo sito web è un'iniziativa non commerciale gestita dalla comunità. È gestito esclusivamente a scopo informativo ed didattico."
+site_disclaimer: "**Dichiarazione di non responsabilità:** Questo sito web è un'iniziativa non commerciale gestita dalla comunità. È gestito esclusivamente a scopo informativo e didattico."
 site_privacy: "**Privacy:** Questo sito web non utilizza cookie e non effettua alcun tracciamento o registrazione degli utenti."
 site_copyright: "**Diritti d'autore:** Nessuno. Quest'opera è soggetta alla licenza."
 ---
 
-Nell'agosto 2025, Google [ha annunciato](https://developer.android.com/developer-verification) che a partire dal prossimo anno
+Nell'agosto 2025 Google [ha annunciato](https://developer.android.com/developer-verification) che a partire dal prossimo anno
 non sarà più possibile sviluppare applicazioni per la piattaforma Android senza prima registrarsi centralmente presso Google.
 Questa registrazione richiederà di:
 
@@ -76,7 +76,7 @@ I reclami hanno un impatto particolarmente significativo quando sono redatti da 
 #### Singapore
 
 - E-mail: [cccs_feedback@cccs.gov.sg](mailto:cccs_feedback@cccs.gov.sg?cc=singapore@keepandroidopen.org)
-- Contact the [Competition and Consumer Commission of Singapore (CCCS)](https://www.cccs.gov.sg)
+- Contatta [Competition and Consumer Commission of Singapore (CCCS)](https://www.cccs.gov.sg)
 - _Nota: Singapore è tra i [primi 4 paesi](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/) in cui sarà obbligatoria la registrazione degli sviluppatori_
 
 #### Thailandia
@@ -170,7 +170,7 @@ Se sei dipendente o collaboratore di Google con una coscienza pulita e hai ulter
 ### A tutti: fate sentire la vostra voce
 
 - [Installa F-Droid](https://f-droid.org) sui tuoi dispositivi Android. Più persone utilizzano app store alternativi, più difficile sarà chiuderli.
-- Aggiungi la firma della tua organizzazione alla bozza della [Lettera aperta a Google riguardante la registrazione obbligatoria degli sviluppatori per la distribuzione di applicazioni di terze parti](https://docs.fediverse.foundation/pad/#/ 2/pad/view/OkfvdusnqafC8Wv+WUVpXB8RQk6XUFxmFHIa6CiBxQI/) inviando un'e-mail a [signatories@keepandroidopen.org](mailto:signatories@keepandroidopen.org?subject=Signature%20for%20keepandroidopen.org) con il tuo nome, titolo e affiliazione.
+- Aggiungi la firma della tua organizzazione alla bozza della [lettera aperta a Google riguardante la registrazione obbligatoria degli sviluppatori per la distribuzione di applicazioni di terze parti](https://docs.fediverse.foundation/pad/#/2/pad/view/OkfvdusnqafC8Wv+WUVpXB8RQk6XUFxmFHIa6CiBxQI/) inviando un'e-mail a [signatories@keepandroidopen.org](mailto:signatories@keepandroidopen.org?subject=Signature%20for%20keepandroidopen.org) con il tuo nome, titolo e affiliazione.
 - Invia il tuo feedback direttamente a Google utilizzando il [sondaggio sui requisiti di verifica per gli sviluppatori Android](https://docs.google.com/forms/d/e/1FAIpQLSfN3UQeNspQsZCO2ITkdzMxv81rJDEGGjO-UIDDY28Rz_GEVA/viewform?pli=1).
 - Fai sentire la tua voce sui social media e con gli articoli sui blog e inserisci il link a <https://keepandroidopen.org>.
 - Combatti la manipolazione dell'opinione pubblica: quando trovi articoli-post sospetti sui forum della comunità e sui social media che sostengono la politica ("Beh, in realtà..."), confutali e non essere timido.
@@ -225,7 +225,7 @@ Questi progetti mirano a fornire una concorrenza indispensabile nel settore dell
 - "Your Smartphone, Their Rules: How App Stores Enable Corporate-Government Censorship" - [https://www.aclu.org/news/free-speech/app-store-oligopoly](https://www.aclu.org/news/free-speech/app-store-oligopoly)
 - "Application Gatekeeping: An Ever-Expanding Pathway to Internet Censorship" — [https://www.eff.org/deeplinks/2025/11/application-gatekeeping-ever-expanding-pathway-internet-censorship](https://www.eff.org/deeplinks/2025/11/application-gatekeeping-ever-expanding-pathway-internet-censorship)
 - "What We Talk About When We Talk About Sideloading" — [https://f-droid.org/en/2025/10/28/sideloading.html](https://f-droid.org/en/2025/10/28/sideloading.html) ([Hacker News Thread](https://news.ycombinator.com/item?id=45736479))
-- “F-Droid and Google's Developer Registration Decree" — [https://f-droid.org/en/2025/09/29/google-developer-registration-decree.html](https://f-droid.org/en/2025/09/29/google-developer-registration-decree.html) ([Hacker News Thread](https://news.ycombinator.com/item?id=45409794))
+- "F-Droid and Google's Developer Registration Decree" — [https://f-droid.org/en/2025/09/29/google-developer-registration-decree.html](https://f-droid.org/en/2025/09/29/google-developer-registration-decree.html) ([Hacker News Thread](https://news.ycombinator.com/item?id=45409794))
 - "Pluralistic: Darth Android” — [https://pluralistic.net/2025/09/01/fulu/](https://pluralistic.net/2025/09/01/fulu/)
 - "Google plans to block side-loading like Apple, declaring war on Android freedom" — [https://tuta.com/blog/android-side-load-apps-google](https://tuta.com/blog/android-side-load-apps-google)
 - "Keep Android Free and Open" - [https://www.swechaap.org/blog/keep-android-free-and-open/](https://www.swechaap.org/blog/keep-android-free-and-open)
@@ -235,7 +235,7 @@ Questi progetti mirano a fornire una concorrenza indispensabile nel settore dell
 
 - "'Keep Android Open' movement fights back against Google sideloading restrictions" – [https://www.theregister.com/2025/10/29/keep_android_open_movement/](https://www.theregister.com/2025/10/29/keep_android_open_movement/)
 - "Resistance to Google’s Android verification grows among developers" – [https://www.techzine.eu/news/devops/135878/resistance-to-googles-android-verification-grows-among-developers/](https://www.techzine.eu/news/devops/135878/resistance-to-googles-android-verification-grows-among-developers/)
-- "‘Keep Android Open’ Movement Challenges Google’s Developer Verification Rule" — [https://www.opensourceforu.com/2025/10/keep-android-open-movement-challenges-googles-developer-verification-rule/](https://www.opensourceforu.com/2025/10/keep-android-open-movement-challenges-googles-developer-verification-rule/)
+- "'Keep Android Open' Movement Challenges Google's Developer Verification Rule" — [https://www.opensourceforu.com/2025/10/keep-android-open-movement-challenges-googles-developer-verification-rule/](https://www.opensourceforu.com/2025/10/keep-android-open-movement-challenges-googles-developer-verification-rule/)
 - "Google kneecaps indie Android devs, forces them to register" — [https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/)
 - "Open-Source Android Apps at Risk Under Google's New Decree" — [https://www.techrepublic.com/article/news-f-droid-warns-google-developer-decree-open-source-android/](https://www.techrepublic.com/article/news-f-droid-warns-google-developer-decree-open-source-android/)
 - "Google's New Developer ID Rule Could Harm F-Droid, Says Open-Source Advocate" — [https://reclaimthenet.org/googles-android-id-rule-threatens-f-droids-future](https://reclaimthenet.org/googles-android-id-rule-threatens-f-droids-future)
@@ -245,9 +245,9 @@ Questi progetti mirano a fornire una concorrenza indispensabile nel settore dell
 - "Google's Requirement For All Android Developers To Register And Be Verified Threatens To Close Down Open Source App Store F-Droid" — [https://www.techdirt.com/2025/10/07/googles-requirement-for-all-android-developers-to-register-and-be-verified-threatens-to-close-down-open-source-app-store-f-droid/](https://www.techdirt.com/2025/10/07/googles-requirement-for-all-android-developers-to-register-and-be-verified-threatens-to-close-down-open-source-app-store-f-droid/)
 - "Google's new developer rules could threaten sideloading and F-Droid’s future" — [https://www.gizmochina.com/2025/09/30/googles-new-developer-rules-could-threaten-sideloading-and-f-droids-future/](https://www.gizmochina.com/2025/09/30/googles-new-developer-rules-could-threaten-sideloading-and-f-droids-future/)
 - "Google is restricting one of Android's most important features, and users are outraged" — [https://www.slashgear.com/1962802/google-restricting-important-android-feature-reason-why-users-outraged/](https://www.slashgear.com/1962802/google-restricting-important-android-feature-reason-why-users-outraged/)
-- “Android's sideloading limits are its most anti-consumer move yet" - [https://www.makeuseof.com/androids-sideloading-limits-are-anti-consumer-move-yet/](https://www.makeuseof.com/androids-sideloading-limits-are-anti-consumer-move-yet/)
-- “Google's dev registration plan 'will end the F-Droid project'" — [https://www.theregister.com/2025/09/29/googles_dev_registration_plan_will/](https://www.theregister.com/2025/09/29/googles_dev_registration_plan_will/)
-- “F-Droid says Google’s new sideloading restrictions will kill the project" — [https://arstechnica.com/gadgets/2025/09/f-droid-calls-for-regulators-to-stop-googles-crackdown-on-sideloading/](https://arstechnica.com/gadgets/2025/09/f-droid-calls-for-regulators-to-stop-googles-crackdown-on-sideloading/)
+- "Android's sideloading limits are its most anti-consumer move yet" - [https://www.makeuseof.com/androids-sideloading-limits-are-anti-consumer-move-yet/](https://www.makeuseof.com/androids-sideloading-limits-are-anti-consumer-move-yet/)
+- "Google's dev registration plan 'will end the F-Droid project'" — [https://www.theregister.com/2025/09/29/googles_dev_registration_plan_will/](https://www.theregister.com/2025/09/29/googles_dev_registration_plan_will/)
+- "F-Droid says Google’s new sideloading restrictions will kill the project" — [https://arstechnica.com/gadgets/2025/09/f-droid-calls-for-regulators-to-stop-googles-crackdown-on-sideloading/](https://arstechnica.com/gadgets/2025/09/f-droid-calls-for-regulators-to-stop-googles-crackdown-on-sideloading/)
 - "Google will require developer verification for Android apps outside the Play Store" — [https://techcrunch.com/2025/08/25/google-will-require-developer-verification-for-android-apps-outside-the-play-store/](https://techcrunch.com/2025/08/25/google-will-require-developer-verification-for-android-apps-outside-the-play-store/)
 - "Google will verify Android developers distributing apps outside the Play store" — [https://www.theverge.com/news/765881/google-android-apps-side-loading-developer-verification](https://www.theverge.com/news/765881/google-android-apps-side-loading-developer-verification)
 - "Google will require developer verification to install Android apps, including sideloading" — [https://9to5google.com/2025/08/25/android-apps-developer-verification/](https://9to5google.com/2025/08/25/android-apps-developer-verification/)
