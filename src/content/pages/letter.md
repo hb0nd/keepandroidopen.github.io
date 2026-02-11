@@ -55,9 +55,9 @@ While we do recognize the importance of platform security and user safety, the A
 
 **1\. Gatekeeping Beyond Google's Own Store**
 
-Android has historically been characterized as an open platform where users and developers can operate independently of Google's services. The proposed developer registration policy fundamentally alters that relationship by requiring developers who wish to distribute apps through alternative channels — their own websites, third-party app stores, enterprise distribution systems, or direct transfers — to first seek permission from Google through a mandatory verification process, which involves the agreement to Google's terms and conditions, the payment of a fee, and the uploading of government-issued identification.  
+Android has historically been characterized as an open platform where users and developers can operate independently of Google's services. The proposed developer registration policy fundamentally alters that relationship by requiring developers who wish to distribute apps through alternative channels — their own websites, third-party app stores, enterprise distribution systems, or direct transfers — to first seek permission from Google through a mandatory verification process, which involves the agreement to Google's terms and conditions, the payment of a fee, and the uploading of government-issued identification.
 
-This extends Google's gatekeeping authority beyond its own marketplace into distribution channels where it has no legitimate operational role. Developers who choose not to use Google's services should not be forced to register with, and potentially be judged by, Google.
+This extends Google's gatekeeping authority beyond its own marketplace into distribution channels where it has no legitimate operational role. Developers who choose not to use Google's services should not be forced to register with, and potentially be judged by, Google. This also gives Google newfound powers to completely disable any app it wants to, for any reason, for the entire Android ecosystem.
 
 **2\. Barriers to Entry and Innovation**
 
@@ -68,6 +68,8 @@ Mandatory registration creates friction and barriers to entry, particularly for:
 *   Developers in regions with limited access to Google's registration infrastructure
 *   Privacy-focused developers who avoid surveillance ecosystems
 *   Emergency response and humanitarian organizations requiring rapid deployment
+*   Activists working on internet freedom in countries that unjustly criminalize that work
+*   Developers in countries or regions where Google cannot allow them to sign up due to sanctions
 *   Researchers and academics developing experimental applications
 *   Internal enterprise and government applications never intended for broad public distribution
 
