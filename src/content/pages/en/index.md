@@ -41,16 +41,29 @@ This registration will involve:
 
 ➤ You, **the state**, are ceding the rights of your citizens and your own digital sovereignty to a company with a track record of complying with the extrajudicial demands of authoritarian regimes to remove perfectly legal apps that they happen to dislike. The software that is critical to the running of your businesses and governments will be at the mercy of the opaque whims of a distant and unaccountable corporation.
 
-### Clarification: Google has not "backed down" from developer verification
+<div class="callout-warning">
+
+### Update: Google has **not** "backed down" from developer verification {#clarification}
 
 Contrary to a vague [mention](https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html) of a possible "advanced flow" that may eventually allow "experienced users to accept the risks of installing software that isn't verified", Google's [description of the program](https://developer.android.com/developer-verification) continues to state plainly that:
 
 > Starting in September 2026, Android will require all apps to be registered by verified developers in order to be installed on certified Android devices
 
-Until such time that they have shown evidence that it will be possible to bypass the verification process without undue friction, we must believe what is stated on their official page: that all apps from non-registered developers will be blocked
-once their lock-down goes into effect.
+Until such time that they have shown evidence that it will be possible to bypass the verification process without undue friction, we must believe what is stated on their official page: that **all** apps from non-registered developers **will be blocked** once their lock-down goes into effect.
+
+</div>
 
 ## How you can help
+
+### Developers: Resist and refuse {#developers}
+
+If you are an app developer, _**do not sign up**_ for the early access program, perform identity verification, or accept an invitation to the Android Developer Console. Respond (politely) to any invitation with a list of your concerns and objections.
+
+—— _It is only through developer acquiescence that their takeover plan can possibly succeed._ ——
+
+Discourage fellow app developers and organizations from signing up to the program. Use community forums, social media, and blog posts to spread the message. Include the [FreeDroidWarn library](https://github.com/woheller69/FreeDroidWarn) in your code to inform your app users.
+
+If you are a Google employee or contractor of good conscience and have additional insight about the program, including planned technical implementation details or additional rationales for the program, please reach out to [tips@keepandroidopen.org](mailto:tips@keepandroidopen.org) from a _non-work_ machine and a _non-gmail_ account. Your information will be kept in strict confidence.
 
 ### Consumers: Contact national regulators {#consumers}
 
@@ -178,19 +191,7 @@ Complaints are especially impactful when they are authored by a citizen of that 
 - Contact the [Ministry of Digital Transformation](https://thedigital.gov.ua/)
 - Contact the [Antimonopoly Committee of Ukraine](https://amcu.gov.ua/)
 
-
-
-### Developers: Resist and refuse
-
-If you are an app developer, _**do not sign up**_ for the early access program, perform identity verification, or accept an invitation to the Android Developer Console. Respond (politely) to any invitation with a list of your concerns and objections.
-
-—— _It is only through developer acquiescence that their takeover plan can possibly succeed._ ——
-
-Discourage fellow app developers and organizations from signing up to the program. Use community forums, social media, and blog posts to spread the message. Include the [FreeDroidWarn library](https://github.com/woheller69/FreeDroidWarn) in your code to inform your app users.
-
-If you are a Google employee or contractor of good conscience and have additional insight about the program, including planned technical implementation details or additional rationales for the program, please reach out to [tips@keepandroidopen.org](mailto:tips@keepandroidopen.org) from a _non-work_ machine and a _non-gmail_ account. Your information will be kept in strict confidence.
-
-### Everyone: Make your voice heard
+### Everyone: Make your voice heard {#everyone}
 
 - [Install F-Droid](https://f-droid.org) on your Android device(s). The more people that use alternative app marketplaces, the harder it will be to shut them out.
 - Provide feedback directly to Google using their [Android developer verification requirements survey](https://docs.google.com/forms/d/e/1FAIpQLSfN3UQeNspQsZCO2ITkdzMxv81rJDEGGjO-UIDDY28Rz_GEVA/viewform?pli=1).
