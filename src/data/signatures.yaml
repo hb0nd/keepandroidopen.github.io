@@ -62,6 +62,10 @@
   url: "fsfe.org"
   poc: "Lucas Lasota <lucas.lasota@fsfe.org>"
   region: DE
+- organization: "Ghostery"
+  url: "ghostery.com"
+  poc: "Adam from Ghostery <adam@ghostery.com>"
+  region: US
 - organization: "The Guardian Project"
   url: "guardianproject.info"
   poc: "Nathan Freitas <nathan@guardianproject.info>"
