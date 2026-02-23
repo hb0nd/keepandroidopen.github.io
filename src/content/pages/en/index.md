@@ -59,7 +59,7 @@ Until such time that they have shown evidence that it will be possible to bypass
 
 If you are an app developer, _**do not sign up**_ for the early access program, perform identity verification, or accept an invitation to the Android Developer Console. Respond (politely) to any invitation with a list of your concerns and objections.
 
-—— _It is only through developer acquiescence that their takeover plan can possibly succeed._ ——
+—— _It is only through developer acquiescence and capitulation that their takeover plan can possibly succeed._ ——
 
 Discourage fellow app developers and organizations from signing up to the program. Use community forums, social media, and blog posts to spread the message. Include the [FreeDroidWarn library](https://github.com/woheller69/FreeDroidWarn) in your code to inform your app users. If you manage a web site, consider [adding the countdown banner](/banner) to the top of your page.
 
