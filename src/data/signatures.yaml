@@ -81,6 +81,10 @@
   url: "guardianproject.info"
   poc: "Nathan Freitas <nathan@guardianproject.info>"
   region: US
+- organization: "JMP.chat"
+  url: "jmp.chat"
+  poc: "Stephen Paul Weber <info@jmp.chat>"
+  region: CA
 - organization: "Obtainium"
   url: "obtainium.imranr.dev"
   poc: "Imran <contact@imranr.dev>"

@@ -41,6 +41,7 @@ Date: February 24, 2026
 To: Sundar Pichai, Chief Executive Officer, Google
 To: Sergey Brin, Founder and Board Member, Google
 To: Larry Page, Founder and Board Member, Google
+To: Vijaya Kaza, General Manager for App & Ecosystem Trust, Google
 CC: Regulatory authorities, policymakers, and the Android developer community
 Re: Mandatory Developer Registration for Android App Distribution
 ```
