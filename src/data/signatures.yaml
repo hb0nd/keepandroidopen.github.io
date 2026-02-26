@@ -30,6 +30,9 @@
   url: "codeberg.org"
   poc: "Gusted <contact@codeberg.org>"
   region: DE
+- organization: "CoMaps"
+  url: "comaps.app"
+  poc: "hello@comaps.app"
 - organization: "Cryptee"
   url: "crypt.ee"
   poc: "John Ozbay <hello@johnozbay.com>"
